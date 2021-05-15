@@ -13,8 +13,8 @@ Open the file and add below containe in --->  vi /etc/mail.rc
   edit
   set smtp=smtps://email-smtp.us-east-1.amazonaws.com:465
   set smtp-auth=login
-  set smtp-auth-user=AKIASIW2ORQ4VCX5QKES/smtp creds access key
-  set smtp-auth-password=BJyEJ3fQXm64DaK8CMYBikAIeAi2UBwt2B5QV8j2fS+x/ smtps secretee key
+  set smtp-auth-user=AKIASIWQ4VCX5QKES/smtp creds access key
+  set smtp-auth-password=BJyEJ3fQXm64DaKeAi2UBwt2B5QV8j2fS+x/ smtps secretee key
   set ssl-verify=ignore
   set nss-config-dir=/etc/pki/nssdb/
 
